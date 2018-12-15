@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "my-react-app",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -60,10 +60,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsymester/egghead-react-boilerplate.git"
+    "url": "git+https://github.com/nsymester/my-react-app.git"
   },
   "bugs": {
-    "url": "https://github.com/nsymester/egghead-react-boilerplate/issues"
+    "url": "https://github.com/nsymester/my-react-app/issues"
   },
-  "homepage": "https://github.com/nsymester/egghead-react-boilerplate#readme"
+  "homepage": "https://github.com/nsymester/my-react-app#readme"
 }
